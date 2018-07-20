@@ -1,0 +1,9 @@
+c:\users\anthony\source\repos\FizzBuzzz\FizzBuzzz\bin\Debug\netstandard2.0\FizzBuzzz.deps.json
+c:\users\anthony\source\repos\FizzBuzzz\FizzBuzzz\bin\Debug\netstandard2.0\FizzBuzzz.dll
+c:\users\anthony\source\repos\FizzBuzzz\FizzBuzzz\bin\Debug\netstandard2.0\FizzBuzzz.pdb
+c:\users\anthony\source\repos\FizzBuzzz\FizzBuzzz\obj\Debug\netstandard2.0\FizzBuzzz.csprojAssemblyReference.cache
+c:\users\anthony\source\repos\FizzBuzzz\FizzBuzzz\obj\Debug\netstandard2.0\FizzBuzzz.csproj.CoreCompileInputs.cache
+c:\users\anthony\source\repos\FizzBuzzz\FizzBuzzz\obj\Debug\netstandard2.0\FizzBuzzz.AssemblyInfoInputs.cache
+c:\users\anthony\source\repos\FizzBuzzz\FizzBuzzz\obj\Debug\netstandard2.0\FizzBuzzz.AssemblyInfo.cs
+c:\users\anthony\source\repos\FizzBuzzz\FizzBuzzz\obj\Debug\netstandard2.0\FizzBuzzz.dll
+c:\users\anthony\source\repos\FizzBuzzz\FizzBuzzz\obj\Debug\netstandard2.0\FizzBuzzz.pdb
